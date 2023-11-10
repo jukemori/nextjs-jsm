@@ -4,6 +4,10 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "JS Mastery",
   description: "JS Mastery Resources",
+  other: {
+    "theme-color": "#0d1117",
+    "color-scheme": "dark only",
+  },
 };
 
 export default function RootLayout({
